@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection_Bugeto", "DependencyInjection_Bugeto\DependencyInjection_Bugeto.csproj", "{5895EB6F-C483-430C-9D91-6AECF2640A31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5895EB6F-C483-430C-9D91-6AECF2640A31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5895EB6F-C483-430C-9D91-6AECF2640A31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5895EB6F-C483-430C-9D91-6AECF2640A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5895EB6F-C483-430C-9D91-6AECF2640A31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF5BDC20-90FC-4C6A-BD49-1DB1B25FEADD}
+	EndGlobalSection
+EndGlobal

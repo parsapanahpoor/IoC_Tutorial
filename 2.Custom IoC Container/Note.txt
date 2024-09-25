@@ -1,0 +1,1 @@
+این پیاده سازی شامل رفع دغدغه ی multiple implementations نیست 
